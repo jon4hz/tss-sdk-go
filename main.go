@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/DelineaXPM/tss-sdk-go/v2/server"
+	"github.com/jon4hz/tss-sdk-go/v2/server"
 )
 
 func main() {
